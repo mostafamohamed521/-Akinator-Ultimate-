@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "هل الشخصية ذكر؟",
+      "attribute": "gender",
+      "expected_answer": "ذكر",
+      "category": "basic"
+    },
+    {
+      "id": 2,
+      "text": "هل الشخصية على قيد الحياة؟",
+      "attribute": "is_alive",
+      "expected_answer": true,
+      "category": "basic"
+    },
+    {
+      "id": 3,
+      "text": "هل الشخصية عربية؟",
+      "attribute": "is_arab",
+      "expected_answer": true,
+      "category": "basic"
+    },
+    {
+      "id": 4,
+      "text": "هل الشخصية مصرية؟",
+      "attribute": "is_egyptian",
+      "expected_answer": true,
+      "category": "basic"
+    },
+    {
+      "id": 5,
+      "text": "هل الشخصية رياضية؟",
+      "attribute": "is_athlete",
+      "expected_answer": true,
+      "category": "profession"
+    }
+  ]
+}

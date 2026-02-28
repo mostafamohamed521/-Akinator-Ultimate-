@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "محمد صلاح",
+      "category": "رياضة",
+      "attributes": {
+        "gender": "ذكر",
+        "is_famous": true,
+        "is_alive": true,
+        "is_arab": true,
+        "is_egyptian": true,
+        "is_athlete": true,
+        "plays_football": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "أم كلثوم",
+      "category": "فن",
+      "attributes": {
+        "gender": "أنثى",
+        "is_famous": true,
+        "is_alive": false,
+        "is_arab": true,
+        "is_egyptian": true,
+        "is_singer": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "نجيب محفوظ",
+      "category": "أدب",
+      "attributes": {
+        "gender": "ذكر",
+        "is_famous": true,
+        "is_alive": false,
+        "is_arab": true,
+        "is_egyptian": true,
+        "is_writer": true,
+        "has_won_nobel": true
+      }
+    }
+  ]
+}
